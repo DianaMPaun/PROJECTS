@@ -76,7 +76,7 @@ The analysis is broken down into the following Jupyter notebooks:
 ---
 
 ## Acknowledgements  
-The dataset is sourced from [Kaggle](insert-link). Special thanks to the contributors of this dataset.
+The dataset is sourced from [Kaggle](https://www.kaggle.com/code/eishkaran/spotify-music-recommendation-system). Special thanks to the contributors of this dataset.
 
 ---
 
