@@ -88,7 +88,7 @@ The dataset is sourced from [Kaggle](insert-link). Special thanks to the contrib
 ---
 
 ## Author  
-[DianaMPaun](https://github.com/your-username)  
+[DianaMPaun](https://github.com/DianaMPaun)
 
 --- 
 
