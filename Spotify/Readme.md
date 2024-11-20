@@ -7,7 +7,7 @@ This project explores a dataset of Spotify songs sourced from Kaggle, analyzing 
 ---
 
 ## Dataset  
-The dataset used in this project comes from [Kaggle](insert-link). It contains information about songs, such as:
+The dataset used in this project comes from [Kaggle](https://www.kaggle.com/code/eishkaran/spotify-music-recommendation-system). It contains information about songs, such as:
 - **Title**: Song name  
 - **Artist**: Performer  
 - **Year**: Release year  
