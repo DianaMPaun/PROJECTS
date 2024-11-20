@@ -9,7 +9,7 @@ Welcome to my **Projects** repository! This is a collection of diverse data-focu
 ### 1. **Spotify Songs Analysis and Prediction**  
 Explore Spotify data to uncover insights about song popularity, genres, and more.  
 - **Techniques**: EDA, correlations, clustering, and predictive modeling.  
-- **Dataset**: Sourced from [Kaggle](insert-link).  
+- **Dataset**: Sourced from [Kaggle](https://www.kaggle.com/code/eishkaran/spotify-music-recommendation-system).  
 - **Notebooks**: [Read the project details here](link-to-spotify-readme).
 
 ---
