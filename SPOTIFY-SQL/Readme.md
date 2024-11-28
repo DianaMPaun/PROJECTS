@@ -3,7 +3,7 @@
 # Spotify Songs SQL Project 🎵
 
 ## Overview
-This project explores a dataset of Spotify songs to demonstrate SQL skills. The dataset, sourced from Kaggle, is cleaned and prepared using Python and uploaded to a SQL database. A variety of queries showcase analytical capabilities and data relationships.
+This project explores a dataset of Spotify songs to demonstrate SQL skills. The dataset, sourced from [Kaggle](https://www.kaggle.com/code/eishkaran/spotify-music-recommendation-system), is cleaned and prepared using Python and uploaded to a SQL database. A variety of queries showcase analytical capabilities and data relationships.
 
 ---
 
