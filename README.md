@@ -14,6 +14,15 @@ Explore Spotify data to uncover insights about song popularity, genres, and more
 
 ---
 
+### 2. **Spotify Songs SQL Queries**
+Showcase SQL skills by analyzing Spotify songs using relational databases.
+- **Highlights**: Data preparation, normalized database schema, advanced SQL queries, and trend analysis.
+- **Tools**: Python (data preparation), SQL (analysis).
+- **Dataset**: Sourced from [Kaggle](https://www.kaggle.com/code/eishkaran/spotify-music-recommendation-system).
+- **Notebooks**: [Read the project details here]()
+
+---
+
 ## What to Expect  
 I plan to continually expand this repository with new and exciting projects, including but not limited to:  
 - Machine Learning applications.  
