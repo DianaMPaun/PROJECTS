@@ -19,7 +19,7 @@ Showcase SQL skills by analyzing Spotify songs using relational databases.
 - **Highlights**: Data preparation, normalized database schema, advanced SQL queries, and trend analysis.
 - **Tools**: Python (data preparation), SQL (analysis).
 - **Dataset**: Sourced from [Kaggle](https://www.kaggle.com/code/eishkaran/spotify-music-recommendation-system).
-- **Notebooks**: [Read the project details here]()
+- **Notebooks**: [Read the project details here](https://github.com/DianaMPaun/PROJECTS/tree/main/SPOTIFY-SQL)
 
 ---
 
