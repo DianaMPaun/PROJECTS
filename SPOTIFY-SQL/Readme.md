@@ -76,6 +76,13 @@ The data is organized into a relational schema:
 
 ---
 
+## Files in This Repository
+- **data_preparation.ipynb**: Jupyter notebook for cleaning and preparing the data, creating tables, and adding relationships.
+- **queries.sql**: Collection of SQL queries used to analyze the data and demonstrate SQL skills.
+- **erd_screenshot.png**: Visual representation of the database schema (ERD) showing relationships between tables.
+
+---
+
 ## How to Use
 1. Clone this repository.
 2. Use the included Jupyter notebook to prepare the dataset (optional if starting from raw data).
