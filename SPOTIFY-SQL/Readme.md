@@ -77,7 +77,7 @@ The data is organized into a relational schema:
 ---
 
 ## Files in This Repository
-- **data_preparation.ipynb**: Jupyter notebook for cleaning and preparing the data, creating tables, and adding relationships.
+- **Spotify_SQL.ipynb**: Jupyter notebook for cleaning and preparing the data, creating tables, and adding relationships.
 - **queries.sql**: Collection of SQL queries used to analyze the data and demonstrate SQL skills.
 - **erd_screenshot.png**: Visual representation of the database schema (ERD) showing relationships between tables.
 
