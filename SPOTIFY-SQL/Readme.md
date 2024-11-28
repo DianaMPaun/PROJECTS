@@ -94,7 +94,7 @@ The data is organized into a relational schema:
 ---
 
 ## Acknowledgments
-- **Dataset**: [Kaggle Spotify Dataset](https://www.kaggle.com/)
+- **Dataset**: The dataset is sourced from [Kaggle](https://www.kaggle.com/code/eishkaran/spotify-music-recommendation-system). Special thanks to the contributors of this dataset.
 - **Inspiration**: Passion for music and data analysis.
 
 ---
