@@ -44,7 +44,12 @@ The analysis is broken down into the following Jupyter notebooks:
    - Groups songs based on features like energy and tempo to uncover patterns.  
    - Visualizes clusters to differentiate song categories.
 
-5. **Machine Learning** (Coming Soon 🚧)  
+5. **Sentiment Analysis**
+   - Analyzes the sentiment of song titles using TextBlob and VADER sentiment analysis tools.
+   - Categorizes sentiment into Positive, Neutral, and Negative.
+   - Visualizes sentiment distribution and its relationships with other features like popularity.
+
+6. **Machine Learning** (Coming Soon 🚧)  
    - Implements predictive models for song popularity.  
    - Explores classification techniques to predict genres based on song features.
 
@@ -79,7 +84,8 @@ The analysis is broken down into the following Jupyter notebooks:
 ## Tools & Libraries  
 - **Python**: Primary programming language  
 - **Pandas**: Data manipulation  
-- **Matplotlib & Seaborn**: Data visualization  
+- **Matplotlib & Seaborn**: Data visualization
+- **TextBlob & VADER**: Sentiment analysis tools
 - **Scikit-learn**: Machine learning models  
 
 ---
