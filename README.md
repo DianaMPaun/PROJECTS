@@ -35,7 +35,7 @@ Analyze the emotional tone of lyrics from various artists and genres using senti
     - Insights into how sentiment varies by artist and genre.
 - **Tools**: Python (`lyricsgenius`, `textblob`, `vaderSentiment`, `pandas`).
 - **Data**: Lyrics collected via Genius API.
-- **Notebooks**: [Read the project details here](Add link to the notebooks or repository)
+- **Notebooks**: [Read the project details here](https://github.com/DianaMPaun/PROJECTS/tree/main/Lyrics-Sentiment-Analysis)
 
 --- 
 
