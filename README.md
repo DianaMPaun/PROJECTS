@@ -23,6 +23,22 @@ Showcase SQL skills by analyzing Spotify songs using relational databases.
 
 ---
 
+### 3. **Lyrics Sentiment Analysis**
+Analyze the emotional tone of lyrics from various artists and genres using sentiment analysis techniques.
+
+- **Techniques**:
+    - Sentiment analysis using TextBlob (lexicon-based) and VADER (rule-based).
+    - Comparison of sentiment scores across methods to uncover patterns in lyrical content.
+- **Highlights**:
+    - Scraped lyrics from Genius API.
+    - Analyzed songs by artists like Linkin Park, Ed Sheeran, The Weeknd, and more.
+    - Insights into how sentiment varies by artist and genre.
+- **Tools**: Python (`lyricsgenius`, `textblob`, `vaderSentiment`, `pandas`).
+- **Data**: Lyrics collected via Genius API.
+- **Notebooks**: [Read the project details here](Add link to the notebooks or repository)
+
+--- 
+
 ## What to Expect  
 I plan to continually expand this repository with new and exciting projects, including but not limited to:  
 - Machine Learning applications.  
